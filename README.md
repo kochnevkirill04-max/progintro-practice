@@ -1,3 +1,3 @@
 This is my programming introduction repository.
-Under development - conflict branch
+Under development 
 Edited on GitHub
