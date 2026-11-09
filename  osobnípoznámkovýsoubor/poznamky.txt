@@ -1,0 +1,6 @@
+Dnes se učím programovat.
+Příliš žluťoučký kůň úpěl ďábelské ódy.
+
+Python pracuje s textovými soubory.
+Každý řádek čteme postupně.
+Tohle je poslední poznámka.
