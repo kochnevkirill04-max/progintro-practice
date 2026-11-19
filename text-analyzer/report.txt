@@ -1,0 +1,5 @@
+Počet slov: 4
+Nejčastější slova:
+pes: 2
+a: 1
+kočka: 1
